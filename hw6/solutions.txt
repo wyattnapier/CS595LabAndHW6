@@ -1,0 +1,7 @@
+Problem 1. (15 points) 
+The problem with Stu's scheme is that it breaks the principles of zero-knowledge by revealing too much about the problem to the verifier. 
+This way, the anonymity of the blockchain is broken down.
+
+Problem 2. (15 points) Stu has another idea. 
+Although its important to make sure that the commitment matches the PedersenHash(id, r), 
+this never proves that the commitment is in the merkle tree of deposits.
